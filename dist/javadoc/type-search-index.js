@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"electrodomesticosapp","l":"Electrodomestico"},{"p":"electrodomesticosapp","l":"ElectrodomesticosApp"}];updateSearchResults();
